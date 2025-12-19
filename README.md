@@ -11,16 +11,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=01-Fi.01-Fi&"  />
 </div>
 
@@ -30,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Falaq Iqbal<br> <br>-🎓 Undergraduate Computer Science student<br><br>-📔Coursework in Statistics and Mathematics<br><br>-💻 Learning data structures, algorithms, programming and problem-solving<br><br>-🔐 Currently exploring cyber security fundamentals <br><br>-⚡ Fun fact: I understand errors better than I understand my own code</p>
+<h4 align="left">I'm Falaq Iqbal<br> <br>-🎓 Undergraduate Computer Science student<br>-📔Coursework in Statistics and Mathematics<br>-💻 Learning data structures, algorithms, programming and problem-solving<br>-🔐 Currently exploring cyber security fundamentals <br>-⚡ Fun fact: I understand errors better than I understand my own code</h4>
 
 ###
 
@@ -60,6 +50,21 @@
 
 ###
 
+<h3 align="left">🌐Socials:</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=01-Fi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=01-Fi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -68,6 +73,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/01-Fi/01-Fi/output/pacman-contribution-graph-dark.svg">
