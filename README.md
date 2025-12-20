@@ -74,9 +74,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/01-Fi/01-Fi/output/pacman-contribution-graph-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/01-Fi/01-Fi/output/pacman-contribution-graph.png">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/01-Fi/01-Fi/output/pacman-contribution-graph.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/01-Fi/01-Fi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/01-Fi/01-Fi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/01-Fi/01-Fi/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
