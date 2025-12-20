@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=HELLO!%20:)&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=HELLO!%20:)&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
@@ -84,7 +84,7 @@
 </picture>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=If%20this%20caught%20your%20interest,%20a%20%E2%AD%90%20is%20appreciated.&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=5&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&reversal=false&text=If%20this%20caught%20your%20interest,%20a%20%E2%AD%90%20is%20appreciated.&fontSize=35&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&descSize=5&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 
