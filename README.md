@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV2eGM3cnlpNGQ0Mm05eHE1Y21rbnR0bnhnMW44Y2N6NWg4aXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV2eGM3cnlpNGQ0Mm05eHE1Y21rbnR0bnhnMW44Y2N6NWg4aXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=01-Fi.01-Fi&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=01-Fi.01-Fi&"/>
 </div>
 
 ###
@@ -27,7 +27,7 @@
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" href="https://tryhackme.com/p/FalaqIqbal"><img height="58" title="TryHackMe Profile" alt="TryHackMe FalaqIqbal Profile" src="https://tryhackme-badges.s3.amazonaws.com/FalaqIqbal.png"></a>
+  <a target="_blank" href="https://tryhackme.com/p/FalaqIqbal"><img height="85" title="TryHackMe Profile" alt="TryHackMe FalaqIqbal Profile" src="https://tryhackme-badges.s3.amazonaws.com/FalaqIqbal.png"></a>
 </div>
 
 ###
