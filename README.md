@@ -24,6 +24,10 @@
 
 ###
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6524638" style='border:none;'></iframe>
+
+###
+
 <h3 align="left">🛠 Language and tools:</h3>
 
 ###
