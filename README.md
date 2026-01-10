@@ -2,15 +2,23 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&text=HELLO!%20:)&fontSize=70&fontColor=000000&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV2eGM3cnlpNGQ0Mm05eHE1Y21rbnR0bnhnMW44Y2N6NWg4aXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"  />
+</div>
+
 ###
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV2eGM3cnlpNGQ0Mm05eHE1Y21rbnR0bnhnMW44Y2N6NWg4aXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"  />
-</div> <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=01-Fi.01-Fi&"  />
-</div> <h3 align="left">I,m Falaq Iqbal</h3>
+</div>
 
-###<p align="left">-🎓 Undergraduate Computer Science student<br>-📔 Coursework in Statistics and Mathematics<br>-💻 Learning data structures, algorithms, programming and problem-solving<br>-🔐 Currently exploring cyber security fundamentals <br>-⚡ Fun fact: I understand errors better than I understand my own code</p>
+###
+
+<h3 align="left">I,m Falaq Iqbal</h3>
+
+###
+
+<p align="left">-🎓 Undergraduate Computer Science student<br>-📔 Coursework in Statistics and Mathematics<br>-💻 Learning data structures, algorithms, programming and problem-solving<br>-🔐 Currently exploring cyber security fundamentals <br>-⚡ Fun fact: I understand errors better than I understand my own code</p>
 
 ###
 
@@ -62,12 +70,16 @@
 
 ###
 
-[![](https://raw.githubusercontent.com/01-Fi/01-Fi/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/01-Fi/01-Fi/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+<br clear="both">
 
-[![](https://raw.githubusercontent.com/01-Fi/01-Fi/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01-Fi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=%F0%9F%93%8AGithub%20stats:" height="98" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=01-Fi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 
-[![](https://visitcount.itsvg.in/api?id=01-Fi&icon=0&color=0)](https://visitcount.itsvg.in)
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
