@@ -72,18 +72,24 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01-Fi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=%F0%9F%93%8AGithub%20stats:" height="98" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=01-Fi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<div align="center" >
+<a  href="https://github.com/01-Fi">
 
-###
+<img src="https://raw.githubusercontent.com/01-Fi/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/01-Fi/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/01-Fi/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=01-Fi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</a>
 
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/01-Fi/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+  
+<hr></hr>
 
 [![](https://visitcount.itsvg.in/api?id=01-Fi&icon=0&color=0)](https://visitcount.itsvg.in)
 
