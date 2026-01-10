@@ -6,21 +6,11 @@
 
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV2eGM3cnlpNGQ0Mm05eHE1Y21rbnR0bnhnMW44Y2N6NWg4aXF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0mYcI6XqAzYgc9JaAG/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
+</div> <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=01-Fi.01-Fi&"  />
-</div>
+</div> <h3 align="left">I,m Falaq Iqbal</h3>
 
-###
-
-<h3 align="left">I,m Falaq Iqbal</h3>
-
-###
-
-<p align="left">-🎓 Undergraduate Computer Science student<br>-📔 Coursework in Statistics and Mathematics<br>-💻 Learning data structures, algorithms, programming and problem-solving<br>-🔐 Currently exploring cyber security fundamentals <br>-⚡ Fun fact: I understand errors better than I understand my own code</p>
+###<p align="left">-🎓 Undergraduate Computer Science student<br>-📔 Coursework in Statistics and Mathematics<br>-💻 Learning data structures, algorithms, programming and problem-solving<br>-🔐 Currently exploring cyber security fundamentals <br>-⚡ Fun fact: I understand errors better than I understand my own code</p>
 
 ###
 
