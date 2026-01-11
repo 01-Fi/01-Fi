@@ -27,7 +27,7 @@
 <!-- TryHackMe Profile and Badges -->
 <div align="center">
   <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" href="https://tryhackme.com/p/FalaqIqbal"><img height="85" title="TryHackMe Profile" alt="TryHackMe FalaqIqbal Profile" src="https://tryhackme-badges.s3.amazonaws.com/FalaqIqbal.png"></a>
+  <a target="_blank" href="https://tryhackme.com/p/FalaqIqbal"><img height="100" title="TryHackMe Profile" alt="TryHackMe FalaqIqbal Profile" src="https://tryhackme-badges.s3.amazonaws.com/FalaqIqbal.png"></a>
 </div>
 
 ###
@@ -73,7 +73,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=01-Fi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=%F0%9F%93%8AGithub%20stats:" height="98" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=01-Fi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
