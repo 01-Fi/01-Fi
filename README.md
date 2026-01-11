@@ -22,13 +22,7 @@
 
 ###
 
-<br>
-
-<!-- TryHackMe Profile and Badges -->
-<div align="center">
-  <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" href="https://tryhackme.com/p/FalaqIqbal"><img height="100" title="TryHackMe Profile" alt="TryHackMe FalaqIqbal Profile" src="https://tryhackme-badges.s3.amazonaws.com/FalaqIqbal.png"></a>
-</div>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6524638" style='border:none;'></iframe>
 
 ###
 
