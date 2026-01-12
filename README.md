@@ -22,7 +22,7 @@
 
 ###
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/01-Fi.png)](https://tryhackme.com/p/01-Fi)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/FalaqIqbal.png)](https://tryhackme.com/p/FalaqIqbal)
 
 
 ###
