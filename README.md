@@ -22,13 +22,8 @@
 
 ###
 
-<br>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/01-Fi.png)](https://tryhackme.com/p/01-Fi)
 
-<!-- TryHackMe Profile and Badges -->
-<div align="center">
-  <!-- <script src="https://tryhackme.com/badge/1134216"></script> -->
-  <a target="_blank" href="https://tryhackme.com/p/FalaqIqbal"><img height="100" title="TryHackMe Profile" alt="TryHackMe FalaqIqbal Profile" src="https://tryhackme-badges.s3.amazonaws.com/FalaqIqbal.png"></a>
-</div>
 
 ###
 
