@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">-🎓 Undergraduate Computer Science student<br>-📔 Coursework in Statistics and Mathematics<br>-💻 Learning data structures, algorithms, programming and problem-solving<br>-🔐 Currently exploring cyber security fundamentals <br>-⚡ Fun fact: I understand errors better than I understand my own code</p>
+<p align="left">-🎓 Undergraduate Computer Science student<br>-📔 Coursework in Statistics and Mathematics<br>-💻 Learning data structures, algorithms, programming and problem-solving<br>-🔐 Currently exploring cyber security fundamentals <br>-⚡ Fun fact:  My debugging proficiency improves markedly when the code is not of my authorship 🤓✨🐛</p>
 
 ###
 
