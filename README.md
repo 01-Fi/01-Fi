@@ -25,8 +25,8 @@
 <h3 align="left">🛡️My TryHackMe Badges</h3>
 
 <p align="center">
-  <img src="linux.png" width="180">
-  <img src="streak.png" width="180">
+  <img src="linux.png" width="100">
+  <img src="streak.png" width="100">
 </p>
 
 ###
