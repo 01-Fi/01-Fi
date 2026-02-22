@@ -24,9 +24,7 @@
 
 <h3 align="left">My TryHackMe Badges</h3>
 
-![Pre Security](badge1.png)
-![Jr Penetration Tester](badge2.png)
-https://tryhackme.com/FalaqIqbal/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=694c050251c67c231af21ebd
+![LINUX](linux.png)
 
 ###
 
