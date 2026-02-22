@@ -22,8 +22,7 @@
 
 ###
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/FalaqIqbal.png)](https://tryhackme.com/p/FalaqIqbal)
-
+<h3 align="left">My tryhackme badges</h3>
 
 ###
 
