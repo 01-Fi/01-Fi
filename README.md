@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">I,m Falaq Iqbal</h3>
+<h1 align="left">I,m Falaq Iqbal</h1>
 
 ###
 
@@ -22,7 +22,10 @@
 
 ###
 
-<h3 align="left">My tryhackme badges</h3>
+<h3 align="left">My TryHackMe Badges</h3>
+
+![Pre Security](badge1.png)
+![Jr Penetration Tester](badge2.png)
 
 ###
 
