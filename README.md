@@ -22,9 +22,12 @@
 
 ###
 
-<h3 align="left">My TryHackMe Badges</h3>
+<h3 align="left">🛡️My TryHackMe Badges</h3>
 
-![LINUX](linux.png)
+<p align="center">
+  <img src="linux.png" width="180">
+  <img src="streak.png" width="180">
+</p>
 
 ###
 
